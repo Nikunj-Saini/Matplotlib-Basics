@@ -12,3 +12,4 @@
 
 ## Summary
 Learned how to add clear legends, labels, and annotations to line plots in Matplotlib. This helps in making plots more informative and presentation-ready.
+ 
